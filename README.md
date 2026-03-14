@@ -18,4 +18,4 @@ Script desenvolvido para **Roblox** que permite equipar automaticamente **o avat
 Execute utilizando um executor Roblox:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/glowpllo/Kairo-Avatar/refs/heads/main/kairo.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/glowpllo/Kairo-Avatar/refs/heads/main/kairo"))()
